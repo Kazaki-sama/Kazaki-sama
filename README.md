@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Subham Maharajan
+- Hi, I’m Subham Maharajan
   <hr>
-- 👀 I’m interested in coding, designing and networking
-- 🌱 I’m currently learning mern full stack, cloud computing
+- I’m interested in coding, designing and networking
+- I’m currently learning mern full stack, cloud computing
 
 
 
