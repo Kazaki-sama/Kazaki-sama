@@ -1,7 +1,8 @@
 - Hi, I’m Subham Maharajan
   <hr>
-- I’m interested in coding, designing and networking
-- I’m currently learning mern full stack, cloud computing
+- Interested in coding, designing and networking
+- Currently persuing BSc Cyber cecurity (hons)
+  
 
 
 
