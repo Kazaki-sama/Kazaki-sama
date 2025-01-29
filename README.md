@@ -2,7 +2,11 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">- 📚 I'm currently learning Cybersecurity<br>- ⚡ In my free time I code, game  and watch one piece</p>
 
 ###
 
@@ -32,5 +36,9 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<img align="right" height="140" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
